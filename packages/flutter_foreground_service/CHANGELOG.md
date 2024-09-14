@@ -1,3 +1,7 @@
+## 0.5.0
+
+- upgrade to flutter 3.24.3
+
 ## 0.4.1
 
 - Lowered minSdkVersion to 23
